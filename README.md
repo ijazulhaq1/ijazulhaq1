@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ijazulhaq1, PhD Student at University de LIeida, Spain
+- 👋 Hi, I’m @ijaz_PhD, PhD Student at University de LIeida, Spain
 - 👀 I’m interested in NLP tasks especially text similairty, classification and other text analytics.
 - 🌱 I’m currently learning text similairty, classification and other text analytics.
 - 💞️ I’m looking to collaborate on research papers relevant to nlp implication in e-learning systems.
